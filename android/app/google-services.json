@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69981788929",
+    "project_id": "app-movies-flutter-lumc",
+    "storage_bucket": "app-movies-flutter-lumc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69981788929:android:cbdfba848342b660d59900",
+        "android_client_info": {
+          "package_name": "br.com.lucianamcedro.app_movies_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69981788929-0odnta7ujv4b80gu4n7mg46kcecr0og6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.lucianamcedro.app_movies_flutter",
+            "certificate_hash": "662e92ee9073733c4539fbc9e9b40608ac47f01e"
+          }
+        },
+        {
+          "client_id": "69981788929-and8441gck981clh5kud7maklci9pdho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAbQEFJg1aOHJWaFqYijGMkbRSWeRr66Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69981788929-and8441gck981clh5kud7maklci9pdho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
