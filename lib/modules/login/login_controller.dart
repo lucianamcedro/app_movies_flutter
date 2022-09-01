@@ -1,6 +1,6 @@
-import 'package:app_movies_flutter/application/ui/loader/loader_mixin.dart';
-import 'package:app_movies_flutter/application/ui/messages/messages_mixin.dart';
-import 'package:app_movies_flutter/repositorys/services/login/login_service.dart';
+import 'package:app_movies_flutter/application/application.dart';
+import 'package:app_movies_flutter/services/services.dart';
+
 import 'package:get/get.dart';
 
 class LoginController extends GetxController with LoaderMixin, MessagesMixin {

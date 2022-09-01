@@ -1,4 +1,6 @@
-import 'package:app_movies_flutter/repositorys/services/login/login_service.dart';
+// ignore_for_file: unused_field
+
+import 'package:app_movies_flutter/services/services.dart';
 import 'package:get/get.dart';
 
 class HomeController extends GetxController {
@@ -23,7 +25,7 @@ class HomeController extends GetxController {
   void goToPage(int page) {
     _pageIndex(page);
     if (page == INDEX_PAGE_EXIT) {
-      //  _loginService.logout();
+      _loginService.logout();
     } else {
       Get.offNamed(
         _pages[page],
